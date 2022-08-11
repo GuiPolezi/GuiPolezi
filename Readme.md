@@ -1,6 +1,5 @@
 <H1> Olá </h1>
  
- <h2>Sou o guilherme e entrei a pouco tempo no mundo da programação. </h2>
   
 <div align="left">
   <a href="https://github.com/GuiPolezi">
