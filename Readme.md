@@ -15,7 +15,8 @@
 <img aling="center" alt="Gui-Node" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
-  
+ 
+ <h2>Contato:</h2>
 <div><br>
  <a href="https://www.instagram.com/guipolezi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: gui.polezi@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
