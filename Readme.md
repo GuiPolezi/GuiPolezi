@@ -1,10 +1,3 @@
-<style>
-h3:hover {
-  color: green;
- }
-</style>
-
-
 <H1>  </h1>
  
   
