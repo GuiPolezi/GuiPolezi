@@ -22,6 +22,7 @@
   <img align="top" alt="Gui-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img aling="center" alt ="Gui-Python" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img aling="top" alt="Gui-Java" height="50" widht="40" src="https://api.iconify.design/devicon/java-wordmark.svg">
+  <img aling="top" alt="Gui-Site" height="50" widht="40" src="https://api.iconify.design/skill-icons/wordpress.svg">
 </div>
 
  
