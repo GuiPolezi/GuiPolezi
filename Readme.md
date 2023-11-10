@@ -19,12 +19,9 @@
  
  <h2>Linguagens:</h2>
 <div style="display: inline_block"><br>
-  <img align="top" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="top" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="top" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="top" alt="Gui-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img aling="center" alt ="Gui-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img aling="top" alt="Gui-Java" height="30" widht="60" src="https://api.iconify.design/devicon/java-wordmark.svg">
+  <img aling="top" alt="Gui-Java" height="30" widht="40" src="https://api.iconify.design/devicon/java-wordmark.svg">
 </div>
 
  
