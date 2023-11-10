@@ -23,7 +23,7 @@
   <img aling="center" alt ="Gui-Python" height="50" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img aling="top" alt="Gui-Java" height="50" widht="40" src="https://api.iconify.design/devicon/java-wordmark.svg">
   <img aling="top" alt="Gui-Site" height="50" widht="40" src="https://api.iconify.design/skill-icons/wordpress.svg">
-  <img aling="top" alt="Gui-C" height="50" widht="40" src="'https://api.iconify.design/devicon/c.svg">
+  <img aling="top" alt="Gui-C" height="50" widht="40" src="https://api.iconify.design/devicon/c.svg">
 </div>
 
  
