@@ -1,8 +1,9 @@
 <H1>  </h1>
- 
+ <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
 <div align="left">
   <a href="https://github.com/GuiPolezi">
+   
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=GuiPolezi&show_icons=true&theme=dark"
@@ -14,11 +15,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=GuiPolezi&show_icons=true" />
 </picture>
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-   
+  
 </div>
-
  
  <h2>Linguagens:</h2>
 <div style="display: inline_block"><br>
