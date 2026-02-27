@@ -8,7 +8,7 @@
   <img align="left" alt="Guilherme's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<img align="right" alt="GIF" src="" />
+<img align="right" alt="GIF" src="https://github.com/GuiPolezi/GuiPolezi/blob/main/rick.gif" />
 
 ### I am Guilherme Polezi
 - A Full-Stack Developer & Open Source enthusiast.
