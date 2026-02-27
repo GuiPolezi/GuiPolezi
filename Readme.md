@@ -8,7 +8,6 @@ Github
 Linkedin
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/GuiPolezi/GuiPolezi/blob/main/rick.gif" />
 
 ### I am Guilherme Polezi
 A Full-Stack Developer & Open Source enthusiast.
@@ -17,3 +16,5 @@ A Full-Stack Developer & Open Source enthusiast.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [Gui Polezi](https://github.com/GuiPolezi)
+<br><br>
+<img align="center" alt="GIF" src="https://github.com/GuiPolezi/GuiPolezi/blob/main/rick.gif" />
